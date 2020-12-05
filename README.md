@@ -4,15 +4,14 @@ The README file for the Kaggle competition of MSBD500.
 
 `Author: WEN Ze`
 
-#### Programming Languages & Packages Used
 
-##### Running Environment
+#### Running Environment
 
 - Python3
 - Google Colab 
 
 
-##### Packages
+#### Packages
 
 - re
 
