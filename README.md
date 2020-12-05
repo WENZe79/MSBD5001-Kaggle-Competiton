@@ -5,7 +5,7 @@ The README file for the Kaggle competition of MSBD500.
 
 `Author: WEN Ze`
 
-#### Programming Languages & Packages Needed
+#### Programming Languages & Packages Used
 
 ##### Running Environment
 
@@ -27,7 +27,7 @@ The README file for the Kaggle competition of MSBD500.
 
   
 
-#### Reproduction
+#### Process
 
 - Check `train.csv`, `test.csv`, `sampleSubmission.csv`
 
@@ -43,4 +43,4 @@ The README file for the Kaggle competition of MSBD500.
 
 #### Submission NOTES
 
-- Team Name used for final submission: `Roger`.
+- Team Name for final submission: `Roger`.
