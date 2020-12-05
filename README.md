@@ -1,6 +1,6 @@
 # MSBD5001-Kaggle-Competiton
 
-The README file for the Kaggle competition of MSBD500.
+The README file for the Kaggle competition of MSBD5001.
 
 `Author: WEN Ze`
 
