@@ -1,5 +1,4 @@
 # MSBD5001-Kaggle-Competiton
-## MSBD5001-Kaggle-Competition
 
 The README file for the Kaggle competition of MSBD500.
 
