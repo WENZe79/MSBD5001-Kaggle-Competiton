@@ -8,7 +8,9 @@ The README file for the Kaggle competition of MSBD500.
 
 ##### Running Environment
 
-- Google Colab -- Python3
+- Python3
+- Google Colab 
+
 
 ##### Packages
 
